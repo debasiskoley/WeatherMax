@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Max</string>
+
+    <string name="welcome">Welcome to</string>
+
+    <!-- Main activity text -->
+    <string name="cityName">City Name</string>
+    <string name="checkWeather">Check</string>
+    <string name="city.name.hint">Enter city name</string>
+    <string name="city.name.error.text">Please input any city name</string>
+
+
+</resources>
