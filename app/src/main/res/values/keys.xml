@@ -2,5 +2,5 @@
 <resources>
 
     <string name="map_api_key">fdgdg</string>
-    <string name="weather_api_key">sdfdsgg</string>
+    <string name="open_weather_maps_app_id">2d83a313b5a01d6e218bef418ad6599f</string>
 </resources>

@@ -9,5 +9,12 @@
     <string name="city.name.hint">Enter city name</string>
     <string name="city.name.error.text">Please input any city name</string>
 
+    <string name="change_city">Change city</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>
