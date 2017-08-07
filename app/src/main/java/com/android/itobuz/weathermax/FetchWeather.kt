@@ -29,12 +29,12 @@ class FetchWeather{
             }
         } else {
             when (id) {
-                2 -> icon = "&#xf01e;"
-                3 -> icon = "&#xf01c;"
-                7 -> icon = "&#xf014;"
-                8 -> icon = "&#xf013;"
-                6 -> icon = "&#xf01b;"
-                5 -> icon = "&#xf019;"
+            2 -> icon = "&#xf01e;" //wi-thunderstorm
+            3 -> icon = "&#xf01c;" //wi-sprinkle
+            7 -> icon = "&#xf014;" //wi-fog
+            8 -> icon = "&#xf013;" //wi-cloudy
+            6 -> icon = "&#xf01b;" //wi-snow
+            5 -> icon = "&#xf019;" //wi-rain
             }
         }
         return icon

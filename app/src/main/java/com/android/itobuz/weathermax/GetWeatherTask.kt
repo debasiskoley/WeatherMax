@@ -70,7 +70,7 @@ class GetWeatherTask(var asyncResponse: AsyncResponse) : AsyncTask<String, Void,
                         json.getJSONObject("sys").getLong("sunset") * 1000)
                 val sunrise = ""+json.getJSONObject("sys").getLong("sunrise") * 1000
 
-                //Log.i("Weather-info","$city , $description, $temperature")
+//                Log.i("Weather-info","$iconText")
                 asyncResponse.processFinish(city,description,temperature,humidity,pressure,updatedOn,iconText, sunrise)
 
             }
