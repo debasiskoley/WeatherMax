@@ -8,6 +8,7 @@
     <string name="checkWeather">Check</string>
     <string name="city.name.hint">Enter city name</string>
     <string name="city.name.error.text">Please input any city name</string>
+    <string name="checkMyLocation">My Location</string>
 
     <string name="change_city">Change city</string>
 
