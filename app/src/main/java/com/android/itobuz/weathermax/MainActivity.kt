@@ -29,7 +29,7 @@ class MainActivity : PermissionsActivity() {
                 requestPermissions(Manifest.permission.ACCESS_FINE_LOCATION, object : PermissionCallBack {
                     override fun permissionGranted() {
                         super.permissionGranted()
-//                        Log.v("Location Permission", "Granted")
+                        Log.v("Location Permission", "Granted")
 
                     }
 
